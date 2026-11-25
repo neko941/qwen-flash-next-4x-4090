@@ -1,0 +1,5 @@
+name: qwen-flash-next-4x-4090
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
