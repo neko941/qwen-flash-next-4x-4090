@@ -1,0 +1,7 @@
+# Local model/data and machine secrets
+*.gguf
+api-key
+*.pid
+*.log
+__pycache__/
+.conda/
